@@ -22,10 +22,13 @@ body {
   max-width: 90vw;
   margin: 0 auto;
 }
-.Bio h3, .Bio ul, .Bio p{
+.Bio, .News{
   text-align: left;
 }
-.Bio a{
+.Bio h1, .News h1{
+  text-align: center;
+}
+.Bio a, .News a{
   text-align: center;
   margin:20px 0;
   display: block;
@@ -36,6 +39,7 @@ div#contentWrapper {
 }
 div#footerWrapper {
   padding: 10px 0;
+  text-align: center;
 }
 h1, h2, h3, h4, h5, h6 {
   line-height: 1.2em;
