@@ -1,0 +1,13 @@
+{
+  "lang": "en",
+  "title": "Home",
+  "stylesheets": ["./css/style.css"],
+  "scripts": ["./js/main.js"],
+  "charset": "utf-8",
+  "description": "This is a page",
+  "keywords": "page, Homepage",
+  "author": "Riz",
+  "favicon": "./images/wmg_icon.ico",
+  "viewport": "width=device-width, initial-scale=1",
+  "extra": []
+}

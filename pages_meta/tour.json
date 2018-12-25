@@ -1,0 +1,14 @@
+{
+    "lang": "en",
+    "title": "Tour",
+    "stylesheets": ["./css/style.css"],
+    "scripts": ["./js/main.js"],
+    "charset": "utf-8",
+    "description": "This is tour page",
+    "keywords": "page, tour",
+    "author": "Riz",
+    "favicon": "./images/wmg_icon.ico",
+    "viewport": "width=device-width, initial-scale=1",
+    "extra": []
+  }
+  
