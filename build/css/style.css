@@ -22,6 +22,14 @@ body {
   max-width: 90vw;
   margin: 0 auto;
 }
+.Bio h3, .Bio ul, .Bio p{
+  text-align: left;
+}
+.Bio a{
+  text-align: center;
+  margin:20px 0;
+  display: block;
+}
 div#contentWrapper {
   min-height: calc(100vh - 85px);
   padding: 30px 0 0;
